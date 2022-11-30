@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;700&display=swap');
+html{
+    font-family: 'Ubuntu', sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#avatar{
+    border-radius: 50%;
+    border: 5px solid white;
+    /*---------------------------------------------*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /*---------------------------------------------*/
+    width: 100%;
+}
+
+.small_img{
+    float: left;
+}
+#si1{
+    width: 16px;
+    height: 16px;
+    padding: 6px;
+}
+#si2{
+    width: 16px;
+    height: 16px;
+    padding: 2px 6px 6px 6px;
+}
+#si3{
+    width: 16px;
+    height: 16px;
+    padding-top: 4px;
+    padding: 2px 6px 6px 6px;
+}
+
+.left{
+    color: white;
+    background-color: #002642;
+    width: 350px;
+    height: auto;
+    float: left;
+}
+
+.right{
+    background-color: white;
+    border: 2px solid black;
+    width: 700px;
+    height: auto;
+    float: initial;
+}
+
+#blk_01{
+    margin: 40px;
+}
+
+#blk_01_01{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#blk_02{
+    margin: 40px;
+}
+
+hr{
+    width: 112px;
+    size: 3px;
+    margin-left: 0px;
+    margin-top: -18px;
+    margin-bottom: 15px;
+    background-color: white;
+}
+
+#blk_03{
+    margin: 40px;
+}
+#hr2{
+    width: 140px;
+}
+
+#blk_04{
+    margin: 40px;
+}
+#hr3{
+    width: 150px;
+}
+
+#blk_05{
+    margin: 0px;;
+}
+#hr4{
+    width: 112px;
+    size: 7px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -18px;
+    background-color: brown;
+}
+
+#blk_06{
+    margin: 50px;
+}
+#hr5{
+    width: 100px;
+    size: 20px;
+    background-color: black;
+}
+
+#blk_07{
+    margin: 50px;
+}
+#hr6{
+    width: 230px;
+    size: 20px;
+    background-color: black;
+}
+
+#blk_08{
+    margin: 50px;
+    flex-direction: column;
+}
+#hr7{
+    width: 80px;
+    size: 20px;
+    background-color: black;
+}
+
+.span{
+    float: right;
+    padding-right: 80px;
+}
+
+.comp_name{
+    color: #bdbbbb;
+}
