@@ -1,0 +1,105 @@
+body{
+    background-color: #060133;
+    color: white;
+    line-height: 1.0;
+}
+
+header{
+    font-size: 14px;
+    background-color: #2f2961;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#container01{
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+#top-text{
+    padding-top: 5px;
+    font-weight: 500;
+}
+
+#container02{
+    margin-bottom: -5px;
+    margin-top: 75px;
+    font-weight: 700;
+    color: #02dbdb;
+}
+
+.card{
+    border-width: 0px;
+    background-color: #060133!important;
+}
+
+.card-img-top{
+    width: 85%;
+    margin: auto;
+    border-radius: 0px;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.card-text{
+    font-size: 14px;
+    font-weight: 400;
+}
+
+#container04{
+    margin-top: 15px;
+    margin-bottom: -5px;
+    font-weight: 700;
+    color: #02dbdb;
+}
+.page-link{
+    background-color:#060133;
+    color: white;
+}
+
+
+.line{
+    background-color: #fafafa;
+    height: 2px;
+    max-width: 100%;
+}
+
+#card02{
+    line-height: 1.5;
+}
+
+#image02{
+    width: calc(100%/3);
+    margin: auto;
+}
+
+#class-subtitle-01{
+    font-size: 10px;
+    font-weight: 400;
+    margin-bottom: 14px;
+}
+
+#footer-col4{
+    line-height: 0.7;
+}
+
+.photoicon{
+    max-width: 100%;
+    width: 150px;
+    padding: 5px;
+    float: left;
+}
+
+.footer-title{
+    padding-top: 40px;
+    color: #02dbdb;
+    font-weight: 700;
+}
+
+.footer-body{
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 1.2;
+}
